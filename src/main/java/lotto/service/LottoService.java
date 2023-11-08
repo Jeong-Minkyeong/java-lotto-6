@@ -22,13 +22,12 @@ public class LottoService {
     public void createBonusNumber(int bonusNumber) {
         bonusLottoNumber = bonusNumber;
     }
+    /*
+    public  checkWinning() {
+        //당첨 결과를 계산하는 로직 ...
+    }
+    public calculateLottoROI(){
 
-    //public  checkWinning() {
-        // 당첨 결과를 계산하는 로직 ...
-    //}
-
-    //public calculateLottoROI(){
-
-    //}
-
+    }
+    */
 }
